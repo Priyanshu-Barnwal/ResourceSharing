@@ -1,23 +1,20 @@
-## Grails 6.2.1 Documentation
+# ResourceSharing 🚀
 
-- [User Guide](https://docs.grails.org/6.2.1/guide/index.html)
-- [API Reference](https://docs.grails.org/6.2.1/api/index.html)
-- [Grails Guides](https://guides.grails.org/index.html)
----
+A full-stack social media platform for topic-based content sharing, built with Groovy and Grails.
 
-## Feature geb documentation
+### ✨ Key Features
 
-- [Grails Geb Functional Testing for Grails documentation](https://github.com/grails3-plugins/geb#readme)
+* **Collaborative Topics**: Create public topics open to everyone or private, invite-only topics.
+* **Content Sharing**: Post external links or upload documents complete with descriptions.
+* **Subscription System**: Users can subscribe to public topics or be invited to private ones.
+* **Secure Access**: Implements a robust access control system to manage user permissions.
 
-- [https://www.gebish.org/manual/current/](https://www.gebish.org/manual/current/)
+### 🛠️ Tech Stack
 
-## Feature scaffolding documentation
-
-- [Grails Scaffolding Plugin documentation](https://grails.github.io/scaffolding/latest/groovydoc/)
-
-- [https://grails-fields-plugin.github.io/grails-fields/latest/guide/index.html](https://grails-fields-plugin.github.io/grails-fields/latest/guide/index.html)
-
-## Feature asset-pipeline-grails documentation
-
-- [Grails Asset Pipeline Core documentation](https://www.asset-pipeline.com/manual/)
+- **Framework**: Grails 6.2.3
+- **Language**: Groovy 3.0.11
+- **Database**: OracleDB 19c
+- **Build Tool**: Gradle 7.6.4
+- **Frontend**: HTML, CSS, JavaScript, JQuery, Bootstrap
+- **Java Version**: OpenJDK 17.0.15
 
