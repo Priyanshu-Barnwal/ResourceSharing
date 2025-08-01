@@ -15,5 +15,5 @@ A full-stack social media platform for topic-based content sharing, built with G
 - **Language**: Groovy 3.0.11
 - **Database**: OracleDB 19c
 - **Build Tool**: Gradle 7.6.4
-- **Frontend**: JavaScript, JQuery
+- **Frontend**: HTML, CSS, JavaScript, JQuery, Bootstrap
 - **Java Version**: OpenJDK 17.0.15
